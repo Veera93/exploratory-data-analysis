@@ -2,11 +2,11 @@
 
 ### Sample.ipynb
 
-Contains sample code for getting started with R programming language, using their dataset, importing files, demonstrating ggplot, maptools, 
+Contains sample code for getting started with R programming language, using their dataset, importing files, demonstrating ggplot, maptools etc
 
 ### Flu EDA.ipynb
 
-Seasonal Flu data of 2017-2018 was collected from Centers for Disease Control and Prevention (https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html) and based on the data following data visualizations were made
+Seasonal Flu data of 2017-2018 was collected from Centers for Disease Control and Prevention (https://gis.cdc.gov/GRASP/Fluview/PedFluDeath.html) and based on the data following data visualizations were made using Plotly.
 
 1. Influenza Positive Tests for type A and type B Flu (per week) along with the positive percentage. (Based on U.S. Clinical Laboratories data)
 2. Influenza Positive Tests for various types of flu per week. (Data based on Public Health Laboratories, National Summary,2017-18 Season)
