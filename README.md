@@ -17,7 +17,7 @@ Seasonal Flu data of 2017-2018 was collected from Centers for Disease Control an
 
 ### Twitter.ipynb
 
-The heat map generated from the CDS data reported by Data based on U.S. Outpatient Influenza-like Illness Surveillance Network was compared with the real time twitter data. Tweets based on tags were collected along with their location data using the rtweet package and same heat map was generated and compared
+The heat map generated from the CDS data reported by Data based on U.S. Outpatient Influenza-like Illness Surveillance Network was compared with the real time twitter data. Tweets based on tags were collected along with their location data using the rtweet package and same heat map was generated and compared. The tags used for retrieving the tweets are flu, flu no work, flu down ,flu vomiting ,flu coughing ,flu with sick ,flu Fatigue ,flu Headache ,flu diarrhea ,flu fever ,flu season.
 
 #### Used rtweet and twitter API keys to fetch data from twitter:
 1. Load the OAuth details
